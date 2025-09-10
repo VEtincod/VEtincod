@@ -12,7 +12,7 @@ Project Management //    Software Development//
             Database Management// Teamwork / Collaboration// Agile Team Member
 
 
-#### Studying in this moment:
+#### Studying in this moment / I studied:
 🤖 Artificial Intelligence 🔝(chatGPT//GEMINI)
 
 ![https://img.shields.io/badge/HTML%20Academy-302683?style=for-the-badge&logo=HTML%20Academy&logoColor=white](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=JAVA&logoColor=white)
